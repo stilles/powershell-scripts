@@ -1,0 +1,1 @@
+This script will loop through the servers specified in "PrintServers.txt" and output all shared printers to a CSV. Useful to get a quick list of printers from multiple servers in an Enterprise environment.
