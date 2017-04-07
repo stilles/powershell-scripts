@@ -1,0 +1,1 @@
+This script will output the members of an Exchange Dynamic Distribution List. Since the membership of these DLs are generated when a user sends mail to it, it can be difficult to know for sure who it's going to.
