@@ -1,4 +1,8 @@
-# Rename Target Computer
+<#
+	Project:	Rename a remote computer through PowerShell.
+	Date:		2017/7/25
+	Author:		Jeff Reed
+#>
 
 $targetPC = Read-Host "Target Computer Name"
 $newName = Read-Host "New Target Computer Name"
